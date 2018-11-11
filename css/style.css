@@ -1,0 +1,45 @@
+.my-card-title {
+	color:#7B1032;
+}
+
+.nopad {
+	margin-right: -150px;
+}
+
+.nopad1 {
+	margin-left: -150px;
+}
+
+.icon-size-up {
+	width: 15px; height: 15px;
+}
+
+.text-italics {
+	font-style: italic;
+	text-decoration: underline;
+	font-weight: bold;
+
+}
+
+.center-image {
+width: 80%; height: 100%;
+margin: 0 auto;
+
+}
+
+.card-margin-bottom{
+	margin-bottom: 12px;
+
+}
+
+.card-margin-top{
+	margin-top: 12px;
+}
+
+.title-font{
+	font-family: 'Spicy Rice', cursive;
+}
+
+.element-left-margin{
+	margin-left:120px;
+}
